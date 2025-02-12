@@ -13,7 +13,7 @@ A common workflow for Serum is to resample and drag files on to the oscilator as
 
 3.  Run handle.exe once and agree to the licence.
 
-4.  Install python: https://www.python.org/downloads/windows/
+4.  Install python, clicking "Add Python to path" in the installer: https://www.python.org/downloads/windows/ 
 
 5.  (optional) Run the "Run as Admin.reg" file, giving a "Open command window here as Administrator" right click context option to Explorer.
 
