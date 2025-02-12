@@ -29,7 +29,7 @@ This a kludge, and could very well make your system unstable, make you lose prog
 
 `python serum-file-fix.py`
 
-3.  All of Serum's open samples should no long be open in the background now, and the file should have imported in to serum.  The files should still play and be visible in the playlist.
+3.  All of Serum's open samples should no longer be open in the background now, and the file should have imported in to serum.  The files should still play and be visible in the playlist.
 
 ## Notes
 
